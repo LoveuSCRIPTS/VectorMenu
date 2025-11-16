@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'jakub'
+author 'LoveU'
 description 'Simple /vector3 and /vector4 coord copier'
 lua54 'yes'
 
