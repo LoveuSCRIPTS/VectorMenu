@@ -19,7 +19,7 @@ Currently the script is standalone-only.
 
 ## Installation
 
-1. Put this folder into your `resources` directory (e.g. `resources/[local]/coords`).
+1. Put this folder into your `resources` directory (e.g. `resources`).
 2. Ensure `ox_lib` is started before this resource if you want clipboard support.
 3. Add to `server.cfg`:
 
