@@ -24,7 +24,7 @@ Currently the script is standalone-only.
 3. Add to `server.cfg`:
 
 ```cfg
-ensure coords
+ensure LoveU_vectormenu
 ```
 
 ## Usage
